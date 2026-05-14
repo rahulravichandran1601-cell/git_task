@@ -1,2 +1,3 @@
 Ghost Robotics 
 Vision-60
+it has jetson xavier as internel computer .
