@@ -1,6 +1,6 @@
 #bin/controls
 
 cd current_ros2/share/gr/ghost_manager/
-./install services.txt--tmcc
+./install services.sh --tmccle
 
-# This is from main branch
+# This is from main_script
