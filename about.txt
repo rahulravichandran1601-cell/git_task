@@ -1,4 +1,4 @@
-Ghost Robotics 
+Ghost Robotics (224)
 Vision-60
 it has jetson xavier as internel computer .
 it use GQ7 for the inertial navigation
@@ -6,4 +6,7 @@ it use GQ7 for the inertial navigation
 
 # This is change  from the main_script
 
-
+#this is change from the calibration
+#calibration,manet,zero,
+#webotic died
+#Ghost event died
