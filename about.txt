@@ -5,3 +5,7 @@ it use GQ7 for the inertial navigation
 
 
 # This is change  from the main_script
+
+
+
+objective- main_script changes has to be merge with the  main branch 
