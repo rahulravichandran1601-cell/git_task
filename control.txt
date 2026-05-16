@@ -1,6 +1,6 @@
-#bin/controls
+#bin/controls.txt
 
 cd current_ros2/share/gr/ghost_manager/
-./install services.sh --tmccle
+./install services.txt --tmcc
 
-# This is from main_script
+#this is change from the calibration
