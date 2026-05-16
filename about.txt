@@ -3,4 +3,4 @@ Vision-60
 it has jetson xavier as internel computer .
 it use GQ7 for the inertial navigation
 
-#this is change from the main_script_services.txt
+#this is change from the calibration

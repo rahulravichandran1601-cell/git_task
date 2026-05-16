@@ -3,4 +3,4 @@
 cd current_ros2/share/gr/ghost_manager/
 ./install services.txt --tmcc
 
-#this is change from the main_script_services.txt
+#this is change from the calibration
