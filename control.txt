@@ -2,3 +2,5 @@
 
 cd current_ros2/share/gr/ghost_manager/
 ./install services.sh --tmccle
+
+# This is from main_script
